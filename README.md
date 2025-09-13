@@ -11,4 +11,8 @@ The agent learns to play Snake by trial and error:
 ---
 
 ## 🐍 Project Structure
-
+├── agent.py # AI agent logic (DQN, training loop, memory replay)
+├── model.py # Neural network (Q-network) + trainer
+├── snake_game.py # Game environment built with pygame
+├── helper.py # Plotting utilities for training progress
+├── README.md # Project documentation
