@@ -1,3 +1,4 @@
+
 import pygame
 import random
 from enum import Enum
@@ -6,7 +7,8 @@ import numpy as np
 
 # Initialize pygame modules
 pygame.init()
-font = pygame.font.Font('arial.ttf', 25)   # font for score display
+font = pygame.font.SysFont('arial', 25)
+
 
 # --- Game Directions ---
 class Direction(Enum):
