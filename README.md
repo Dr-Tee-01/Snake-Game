@@ -20,3 +20,9 @@ The agent learns to play Snake by trial and error:
 ├── helper.py # Plotting utilities for training progress
 
 ├── README.md # Project documentation
+
+## 🖼️ Screenshot
+
+![Snake AI Gameplay training_progress](images/training_progress.png)
+
+
