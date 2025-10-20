@@ -23,6 +23,6 @@ The agent learns to play Snake by trial and error:
 
 ## 🖼️ Screenshot
 
-![Snake AI Gameplay training_progress](images/training_progress.png)
+![Snake AI Gameplay training_progress](training_progress.png)
 
 
