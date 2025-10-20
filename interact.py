@@ -7,7 +7,8 @@ from collections import namedtuple
 pygame.init()
 
 # Load font for rendering text on screen
-font = pygame.font.Font('arial.ttf', 25)
+font = pygame.font.SysFont('arial', 25)
+
 # Alternatively, you can use a system font:
 # font = pygame.font.SysFont('arial', 25)
 
